@@ -1,3 +1,4 @@
+// Yinghao, X (2020) PlaneShoot. https://github.com/xuyinghao/PlaneShoot
 public class Enemy2 extends Enemy{
     private boolean xIncreaseFlag;
 

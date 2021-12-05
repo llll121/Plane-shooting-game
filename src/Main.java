@@ -1,3 +1,5 @@
+// Tang, J (2018) biubiubiu. https://github.com/seventang7/biubiubiu
+// Yinghao, X (2020) PlaneShoot. https://github.com/xuyinghao/PlaneShoot
 import javafx.application.Application;
 import javafx.scene.Group;
 import javafx.scene.Scene;

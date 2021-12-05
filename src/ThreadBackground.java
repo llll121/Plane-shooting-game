@@ -1,3 +1,4 @@
+// Yinghao, X (2020) PlaneShoot. https://github.com/xuyinghao/PlaneShoot
 import javafx.application.Platform;
 import javafx.scene.Group;
 import javafx.scene.canvas.Canvas;

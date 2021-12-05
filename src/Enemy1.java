@@ -1,3 +1,4 @@
+// Yinghao, X (2020) PlaneShoot. https://github.com/xuyinghao/PlaneShoot
 public class Enemy1 extends Enemy{
 
     public Enemy1(double X, double Y) {
